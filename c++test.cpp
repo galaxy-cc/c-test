@@ -36,7 +36,7 @@ int main()
             break;
     }
 
-    
+    cout << "\n结束计算器\n\n";
 
     return 0;
 }
